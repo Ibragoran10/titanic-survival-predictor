@@ -17,6 +17,13 @@ The implementation follows a standard data science workflow:
 4. **Model Training**: Implementing a **Logistic Regression** model using `scikit-learn`.
 5. **Evaluation**: Evaluating the model performance using accuracy score.
 
+📊 Libraries Used
+Pandas & NumPy - For data manipulation and structures.
+
+Matplotlib & Seaborn - For data visualization.
+
+Scikit-Learn - For machine learning model, data splitting, and metrics.
+
 ## 🛠️ Prerequisites & Installation
 
 To run this project locally, ensure you have Python installed, then clone this repository and install the required dependencies:
